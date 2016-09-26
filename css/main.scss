@@ -24,6 +24,7 @@
 }
 .footer-content{
   text-align: center;
+  color: #FF00FF !important;
   padding: 0.5em;
 }
 body{
@@ -89,7 +90,7 @@ padding-top: 0.5em;
 padding-bottom: 0.3em;
 }
 .post-title-main{
-  text-align: center;
+  text-align: left;
   color: #DCDCDC !important;
 }
 .post-content{
@@ -156,6 +157,12 @@ text-align: center;
 .navbar{
   box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.15);
 }
+.right {
+float: right !important;
+padding: 0 0 50px 50px !important;
+}
+
+
 // Our variables
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
