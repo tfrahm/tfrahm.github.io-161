@@ -9,20 +9,24 @@ A mere three weeks ago, coding looked to me a lot like the strings of letters my
 
 Now, I see it as a language of magic that when spoken, can make anything possible!
 
-(wand waving) - INLS 161: Tools for Information Literacy
+(wand waving)
 
-While there will be no fire-breathing dragons, flying on broomsticks, or liquid luck (unfortunately for my gradebook), INLS 161 is not without it's "charms."
+**INLS 161: Tools for Information Literacy**
+
+While there will be no fire-breathing dragons, flying on broomsticks, or liquid luck (unfortunately for my gradebook), Info Lit is not without it's "charms."
 
 We've learned a few tricks and treats. For instance, CSS gives us the ability to:
 
-make it PINK! 
+<font color ="magenta">make it PINK!</font>
 
 or
 
-make it BLUE!
+<font color ="dodgerblue">make it BLUE!</font>
 
 ...we've even learned the equivalent of an unforgivable curse or two:
 
-"rm"
+<font color ="cyan" font>rm</font>is the equivalent of *AVADA KEDAVRA*!
+
+
 
 Just take a look at this awesome website I created. I put a spell on it... and now it's mine!

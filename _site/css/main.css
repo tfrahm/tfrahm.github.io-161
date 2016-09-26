@@ -29,7 +29,6 @@ body {
   .page-stuff a:hover {
     color: #FF00FF  !important;
     text-decoration: none !important;
-    border-bottom: 1px dotted #03a4fb;
     padding-bottom: 0.5em; }
 
 #page-content {
@@ -54,7 +53,7 @@ a {
 a:hover {
   color: #9400D3 !important;
   text-decoration: none !important;
-  border-bottom: 1px dotted #FF00FF; }
+  border-bottom: 1px dotted #000000; }
 
 .post-list {
   text-align: center; }
