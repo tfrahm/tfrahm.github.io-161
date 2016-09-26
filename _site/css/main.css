@@ -133,7 +133,7 @@ code {
 
 .right {
   float: right !important;
-  padding: 0 0 50px 50px !important; }
+  padding: 0 0 50px 50px; }
 
 /**
  * Syntax highlighting styles
