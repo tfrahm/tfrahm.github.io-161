@@ -41,7 +41,7 @@ body {
 
 .jumbotron {
   background: #000000;
-  background-image: url(http://i50.photobucket.com/albums/f318/tfrahm/285H_zpsq4bzrzde.jpg~original) !important;
+  background-image: url(/images/cat.jpg) !important;
   background-size: 100%;
   background-position: 50% 44%;
   background-repeat: no-repeat;
