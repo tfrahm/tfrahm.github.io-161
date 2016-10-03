@@ -9,6 +9,40 @@
 {{content}}
 </section>
 {% include footer.html %}
+
+    <script src="javascript/jquery.js"></script>
+    <script src="javascript/requestAnimationFrame.js"></script>
+    <script src="javascript/jquery-canvas-sparkles.js"></script>
+    
+     <script>
+     
+/*global $*/
+
+        $(document).ready(function() {
+
+            $(".footer-content").sparkle({ 
+
+                "color": ["#9400D3","#4B0082","#000000"] , 
+                count: 50 ,
+                speed: .5 ,
+                minSize: 4 ,
+                maxSize: 8
+           
+
+            });
+            
+             $(".post-title").sparkle({ 
+
+                "color": ["#FF00FF","#DCDCDC","#FFFFFF"] , 
+                count: 50 ,
+                speed: .5 ,
+                overlap: 50
+             });
+             
+        });
+            
+      </script>
+
   </body>
 
 </html>
