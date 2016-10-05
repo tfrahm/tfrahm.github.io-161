@@ -28,11 +28,17 @@ My therapist is going to be super impressed with my newfound ability to commit.
 
 Plus, CSS gives us the ability to:
 
-<font color ="magenta">make it PINK!</font>
-or
-<font color ="dodgerblue">make it BLUE!</font>
+<img src="http://24.media.tumblr.com/tumblr_lhln4ifhs61qbp4vao1_500.gif">
 
-...and we've even learned an unforgivable curse or two:
+<span class="pink">make it **PINK** </span> or <span class="blue">make it <strong>BLUE</strong></span>!
+
+And with java we can even <span class="spark">**MAKE IT SPARKLE**!</span>
+
+Java always *could* make me sparkle. <a href="https://twitter.com/hashtag/CaffeineAddict?src=hash">#caffeineaddict</a>
+
+But coding isn't all <a href="http://www.w3schools.com/cssref/css_colors.asp">rainbows</a> and unicorns...
+
+We've also learned an unforgivable curse or two:
 
 {% highlight ruby %}
 rm HarryPotter
@@ -40,3 +46,4 @@ rm HarryPotter
 ^basically the equivalent of Voldemort shouting *AVADA KEDAVRA*!    
 
 Just take a look at this magical website I've created. I cloned it, added some fancy HTML and CSS... **and now it's mine!**
+

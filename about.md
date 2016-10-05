@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <div class="man-title">
-  UP AND RUNNING WITH DevJournal
+  WHO AM I?
 </div>
 <div class="manual manual-title">
   Posting

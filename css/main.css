@@ -135,6 +135,16 @@ code {
 .right {
   float: right !important;
   padding: 15px 0 50px 50px; }
+  
+.pink {
+  color: DeepPink; }
+
+.blue {
+  color: dodgerblue; }
+  
+.spark {
+  font-style: oblique;
+}
 
 /**
  * Syntax highlighting styles
