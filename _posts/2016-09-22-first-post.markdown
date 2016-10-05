@@ -28,11 +28,11 @@ My therapist is going to be super impressed with my newfound ability to commit.
 
 Plus, CSS gives us the ability to:
 
-<img src="http://24.media.tumblr.com/tumblr_lhln4ifhs61qbp4vao1_500.gif">
-
 <span class="pink">make it **PINK** </span> or <span class="blue">make it <strong>BLUE!</strong></span>
 
-And with java we can even <span class="cursive" font-size="14px">make it sparkle!</span>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eOYJdq-NJ0s" frameborder="0" allowfullscreen></iframe>
+
+And with java we can even <span class="spark" font-size="14px">make it sparkle!</span>
 
 Java always *could* make me sparkle. <a href="https://twitter.com/hashtag/CaffeineAddict?src=hash">#caffeineaddict</a>
 
