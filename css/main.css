@@ -48,7 +48,7 @@ body {
   /* don't tile the image */ }
 
 a {
-  color: #FF00FF !important;
+  color: violet !important;
   text-decoration: none; }
 
 a:hover {
@@ -142,9 +142,6 @@ code {
 .blue {
   color: dodgerblue; }
   
-.spark {
-  font-style: oblique;
-}
 
 /**
  * Syntax highlighting styles

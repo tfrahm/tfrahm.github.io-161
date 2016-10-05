@@ -12,7 +12,6 @@ email: tabitha.frahm@gmail.com
 #write html inside the double quotes to display in jumbotron
 description: "<h3>From Catscratch to Coding:</h3><h1>Yer a Wizard, Tabby!</h1><h3>My Journey to the Center of the Web"
 
-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tfrahm.github.io" # the base hostname & protocol for your site
 twitter_username: TabithaFrahm
