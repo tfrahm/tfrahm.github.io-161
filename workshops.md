@@ -4,9 +4,9 @@ title: Workshops
 permalink: /workshops/
 ---
 
-<span class="page-tagline">Loved it? Download DevJournal</span>
+<h2>Learn to Code with UNC's Women in Computer Science!</h2>
 
-
+<h3>Sitterson Hall: Wednesday, September 28 - 6:30 PM</h3>
 
 <div class="post-content-download">
   <p>

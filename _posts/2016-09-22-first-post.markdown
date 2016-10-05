@@ -32,7 +32,7 @@ Plus, CSS gives us the ability to:
 
 <span class="pink">make it **PINK** </span> or <span class="blue">make it <strong>BLUE!</strong></span>
 
-And with java we can even <span class="cursive">make it sparkle!</span>
+And with java we can even <span class="cursive" font-size="14px">make it sparkle!</span>
 
 Java always *could* make me sparkle. <a href="https://twitter.com/hashtag/CaffeineAddict?src=hash">#caffeineaddict</a>
 

@@ -54,7 +54,7 @@ a {
 a:hover {
   color: #9400D3 !important;
   text-decoration: none !important;
-  border-bottom: 1px dotted #000000; }
+  }
 
 .post-list {
   text-align: center; }
@@ -65,7 +65,7 @@ a:hover {
 
 .post-title {
   font-size: 20px !important;
-  color: #FF00FF !important; }
+  color: white !important; }
 
 .post-excerpt {
   color: white !important;
@@ -162,9 +162,23 @@ code {
 .middle {
   display: block;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: auto; }
   
+.button {
+    background-color: #555555; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 15px 32px -23px black;
+    margin: 0 1em 1em;
+    font-family: 'Playball', cursive;
+    text-shadow: 0px 2px 1px black;
 }
+
 /**
  * Syntax highlighting styles
  */
