@@ -137,12 +137,29 @@ code {
   padding: 15px 0 50px 50px; }
   
 .pink {
-  color: DeepPink; }
+  color: DeepPink;
+  font-family: 'Playball', cursive;
+  font-size: 1.9em;
+  font-weight: 300;
+  text-shadow: 0px 2px 1px black;
+  margin: 0.03em;}
 
 .blue {
-  color: dodgerblue; }
+  color: dodgerblue;
+  font-family: 'Playball', cursive;
+  font-size: 1.9em;
+  font-weight: 300;
+  text-shadow: 0px 2px 1px black;
+  margin: 0.03em;}
   
-
+.cursive {
+  font-family: 'Playball', cursive;
+  font-size: 1.9em;
+  font-weight: 300;
+  text-shadow: 0px 2px 1px black;
+  margin: 0.03em;
+  
+}
 /**
  * Syntax highlighting styles
  */
