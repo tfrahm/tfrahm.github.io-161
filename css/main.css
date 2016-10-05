@@ -22,7 +22,7 @@
 body {
   background-color: #FFFFFF !important;
   font-family: "Verdana" !important;
-  color: #DCDCDC !important; }
+  color: #000000 !important; }
 
 .page-stuff a {
   color: #000000 !important;
@@ -154,7 +154,7 @@ code {
   
 .cursive {
   font-family: 'Playball', cursive;
-  font-size: 1.9em;
+  font-size: 3.9em;
   font-weight: 300;
   text-shadow: 0px 2px 1px black;
   margin: 0.03em; }
