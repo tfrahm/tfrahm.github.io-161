@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Download
-permalink: /download/
+title: Workshops
+permalink: /workshops/
 ---
 
 <span class="page-tagline">Loved it? Download DevJournal</span>
