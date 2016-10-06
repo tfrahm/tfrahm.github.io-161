@@ -12,3 +12,5 @@ Rating: <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star
 
 In this introductory information session, we learned about several nifty little tools to make coding fun and interactive and
 to build a foundation from which we can begin to explore and develop our IT skills on our own time. 
+
+More details to come!

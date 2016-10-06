@@ -161,7 +161,7 @@ code {
   text-shadow: 0px 2px 1px black;
   margin: 0.03em; }
   
-  .spark {
+.spark {
   font-family: 'Playball', cursive;
   font-size: 1.5em;
   font-weight: 300;
@@ -184,8 +184,18 @@ code {
     box-shadow: 0px 15px 32px -23px black;
     margin: 0 1em 1em;
     font-family: 'Playball', cursive;
-    text-shadow: 0px 2px 1px black;
+    text-shadow: 0px 2px 1px black;}
+    
+#column1 {
+  float: left ;
+  width: 50% ;
 }
+
+#column2 {
+  float: left ;
+  width: 50% ;
+}
+
 
 /**
  * Syntax highlighting styles
