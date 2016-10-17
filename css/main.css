@@ -25,10 +25,10 @@ body {
   color: #000000 !important; }
 
 .page-stuff a {
-  color: #000000 !important;
+  color: #FF00FF !important;
   text-decoration: none; }
   .page-stuff a:hover {
-    color: #FF00FF  !important;
+    color: #9400D3  !important;
     text-decoration: none !important;
     padding-bottom: 0.5em; }
 
@@ -48,7 +48,7 @@ body {
   /* don't tile the image */ }
 
 a {
-  color: violet !important;
+  color: #FF00FF !important;
   text-decoration: none; }
 
 a:hover {

@@ -18,7 +18,7 @@ permalink: /aboutme/
  <li>INFJ</li>
  <li>Cat Reincarnate</li>
  <li>Gryffindor? Ravenclaw? Definitely Magical.</li>
- <li>Psychologish</li>
+ <li>Psycholog-ish</li>
  <li>Baker Extraordinaire</li>
  <li>Wizard-in-Training (That's wizardry of the coding variety!)</li>
  <li>Future Ghost</li>
