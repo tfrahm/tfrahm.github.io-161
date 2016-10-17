@@ -37,7 +37,7 @@ to build a foundation from which we can begin to explore and develop our IT skil
     We didn't spend much time on this one, but I hope to take another look at it in my free time!
     
     <li>
-    <h5><strong>Project Euler/Online Java IDE</strong></h5>
+    <h5><strong>Project Euler</strong></h5>
     </li>
 
     Lastly, they told us about how coding can be used to perform all kinds of fancy math, and took us to a website called <a href="https://projecteuler.net/">Project Euler</a>.
