@@ -28,6 +28,7 @@ to build a foundation from which we can begin to explore and develop our IT skil
 <br/><br/>
 <img src="/images/balloon_code.jpg" alt="This code makes the balloons 'pop' when the bat flies into them!" style="width:200px;height:133px;">
 <br/><br/>
+     Pretty neat.
    
     <li>
     <h5><strong>Coding Bat</strong></h5>
@@ -42,7 +43,7 @@ to build a foundation from which we can begin to explore and develop our IT skil
 
     Lastly, they told us about how coding can be used to perform all kinds of fancy math, and took us to a website called <a href="https://projecteuler.net/">Project Euler</a>.
     This site is esentially a series of complex mathematical problems which can be solved with increasingly difficult levels of computer programming
-    knowledge. We were all given the chance to create an account, and then worked together to solve the first problem. We wrote the code below to find the 
+    knowledge. We were all given the chance to create an account, and then worked together to solve the first problem. We wrote the code below (in C#) to find the 
     sum of all the multiples of 3 or 5 below 1000:
     <br/><br/>
    
@@ -56,6 +57,7 @@ to build a foundation from which we can begin to explore and develop our IT skil
     {% endhighlight %}
     
     <br/>
-   Pretty neat.
+   (Answer: 233168) 
+  
 
 </ol>
