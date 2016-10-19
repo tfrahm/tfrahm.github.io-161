@@ -11,8 +11,14 @@
 .navbar-default .navbar-nav > li > a:focus {
   color: #FFFFFF !important; }
 
-.navbar-default .navbar-brand {
-  color: #FF00FF !important; }
+.navbar-default .navbar-brand > li > a {
+  color: #FF00FF  !important; }
+
+.navbar-default .navbar-brand > li > a:hover {
+  color: #9400D3  !important; }
+
+.navbar-default .navbar-brand > li > a:focus {
+  color: #FFFFFF !important; }
 
 .footer-content {
   text-align: center;
