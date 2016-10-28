@@ -40,10 +40,15 @@ Already super cool. But to make the process even simpler, I wrote the code into 
 
 Here's a link to my script on Github: 
 <a href="https://github.com/inls161/assignment-3-tfrahm/blob/master/tfrahm-convert-docs.sh">
-tfrahm-convert-docs.sh
+ABRACADABRA!
 </a>
 
-Go ahead, give it a try!
+And here's a link to my Cloud9 Editor: 
+<a href="https://ide.c9.io/tfrahm/assignment-3">
+ALAKAZAM!
+</a>
+
+Go check it out!
 
 <!--- Share your Cloud9 workspace with me and place a link to your Editor in the post. 
 <!--- I should be able to run your script so you need to give me read-write permissions. -->
@@ -67,7 +72,8 @@ I felt like Tom Riddle creating his magical-horcrux-diary. I think I've gained a
 programs work and how it is they interact with users. As Rowling says,
 "Never trust anything that can think for itself if you can't see where it keeps its brain."
 
-The greatest challenged I faced while writing my script was creating my if/else statement to remove the file extension from `$OUTPUT`.
+I really enjoyed learning how to make the terminal spit out fancy colors, but the greatest
+challenge I faced while writing my script was creating an if/else statement to remove the file extension (if needed) from `$OUTPUT`.
 
 How do you cast a spell when you don't know the words? Consult other wizards, that's how! I spent a LOT of time reading through
-<a href="http://stackoverflow.com/">Stack Overflow</a> to figure this one out. (Thanks, fam.)
+<a href="http://stackoverflow.com/">Stack Overflow</a> to figure this one out. (Thanks, fam.) 
