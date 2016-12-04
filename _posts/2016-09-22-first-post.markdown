@@ -7,6 +7,10 @@ author: "Tabitha"
 ---
 <a href="http://s50.photobucket.com/user/tfrahm/media/e5f4ea48da266a81b4a8f58bd924563a_zpsgx8eipg1.jpg.html" target="_blank"><img src="http://i50.photobucket.com/albums/f318/tfrahm/e5f4ea48da266a81b4a8f58bd924563a_zpsgx8eipg1.jpg" border="0" alt=" photo e5f4ea48da266a81b4a8f58bd924563a_zpsgx8eipg1.jpg" style="width:250px;height:375px" class ="right"></a>
 
+#### **Assignment 2:**
+
+**My Very First Post!**
+
 Once upon a time, coding looked to me a lot like the strings of letters my cat generates when she walks across the keyboard if I haven't paid her enough attention... basically, a jumble of meaningless characters. Like parseltongue, it was something that could only be understood by evil wizards who practice the dark arts. 
 
 Fitting, because I'm pretty sure my cat is actually the Heir of Slytherin.
