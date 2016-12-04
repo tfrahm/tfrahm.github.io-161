@@ -3,6 +3,56 @@ layout: page
 title: Workshops
 permalink: /workshops/
 ---
+<h2>RailsBridge Triangle Intro to Programming with Ruby on Rails!</h2>
+
+<h3>Sitterson Hall: Friday, December 2, 6 - 9:00 PM & Saturday, December 3, 9:00 AM - 4:30 PM</h3>
+
+Rating: <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-o"></i>
+
+This workshop was hosted by the cool folks over at <a href="http://railsbridgetriangle.com/">RailsBridge Triangle</a>.
+We began with a pizza party and installfest on Friday night (and yes, to my surprise it did actually take THREE HOURS to install all
+of the necessary software), and then spent a full day Saturday at an introductory course to Ruby on Rails. We covered A LOT of stuff. Here's a brief overview:
+
+**Installfest** - here's a list of all the cool stuff we installed and worked with: 
+
+<img src="/images/terminal.PNG" alt="Terminal running Rails server" style="width:600px;height:600px;" class="right">
+ 
+ - <a href="https://www.ruby-lang.org/en/">Ruby</a> - programming language
+ - <a href="http://rubyonrails.org/">Rails</a> - framework for doing stuff with Ruby
+ - <a href="https://git-scm.com/">Git</a> - version control system (Yay!)
+ - <a href="https://github.com/">GitHub</a> - git repository hosting site 
+ - <a href="https://dashboard.heroku.com/">Heroku</a> - application server
+ - <a href="http://www.sublimetext.com/2">Sublime Text 2</a> - text editor
+ - <a href="https://rubygems.org/">"Ruby gems"</a> - bits of code
+
+**Intro to Rails**
+ 
+To learn Rails, the code master people had us complete a practical project: we created a voting app, aka "suggestotron".
+The app (when complete) allowed us to view and list topics, vote on the topics, create new topics, edit existing topics, and destroy topics.
+
+Here's what my finished app looked like:
+
+<img src="/images/tip-topics_app.PNG" alt="Tip-Topics App" style="width:410px;height300px;">
+
+Along the way, we learned some basic Ruby syntax and web development tools (i.e. source control, editor, console, local servers). Check out my
+nifty new terminal running a rails server up above!
+
+This workshop covered SO MUCH STUFF and I'm sure I've already forgotten half of it. But I feel confident that (even if it takes time)
+I *could* learn how to code with Ruby and I know that there's a super supportive community of nice coders out there willing to help me!
+
+Similarly to 161, the workshop was set up so that we were able to work through the steps
+independently, wiht TAs on standby whenever we had a question to ask. I really enjoyed this workshop, 
+and found that a lot of the things I learned in 161 this semester were super applicable, which
+made me feel awesome and knowledgeable compared to a lot of people. Free food and t-shirts are always a plus,as well!
+
+My only critique is that it's the weekend before finals week, so I wasn't able to concentrate on the learning 
+experience as fully as I would have wished. That said, it was tons of fun and I hope to attend some more similar workshops
+in the future!
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Me: &quot;I love git.&quot;<a href="https://twitter.com/nclikenc">@nclikenc</a>: &quot;Why don&#39;t you marry it?&quot;<br>Me: &quot;I just can&#39;t commit.&quot;<a href="https://twitter.com/hashtag/RBTworkshop2016?src=hash">#RBTworkshop2016</a></p>&mdash; Tabitha Frahm (@TabithaFrahm) <a href="https://twitter.com/TabithaFrahm/status/805130375991357441">December 3, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
 
 <h2>Learn to Code with UNC's Women in Computer Science!</h2>
 
