@@ -5,7 +5,7 @@ date:   2016-11-05 12:00:00
 categories: INLS161
 author: "Tabitha"
 ---
-#### **Assignment 4 Reflection:**
+#### **Assignment 4:**
 
 <img src="/images/stronger.jpg" border="0" alt="stronger together" style="width:425px;height:300px" class ="right">
 

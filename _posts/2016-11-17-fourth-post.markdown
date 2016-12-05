@@ -5,7 +5,7 @@ date:   2016-11-17 12:00:00
 categories: INLS161
 author: "Tabitha"
 ---
-#### **Assignment 5 Reflection:**
+#### **Assignment 5:**
 
 For this assignment, my team and I expanded on the script we created for <a href="https://tfrahm.github.io/inls161/2016/11/05/third-post.html">Assignment 4</a>.
 Our script asks a series of introductory questions, as one might ask when getting to know someone new. (We have run the script 
