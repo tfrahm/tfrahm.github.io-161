@@ -34,9 +34,13 @@ And we learned some new skills too:
 * audacity
 * vorbis
 
-This project required a lot of push and pull to get everything synced and working correctly. It was fun collaborating with another person but that 
-also made it more difficult to troubleshoot problems. Honestly, there were times we were getting error after error but we just kept using our 
-favorite commands (`git status`, `git pull`, `git add`, `git commit`, `git push`) until the errors magically disappeared!
+This project required a lot of "push" and "pull" to get everything synced and working correctly. It was fun collaborating with another person but that 
+also made it more difficult to troubleshoot problems. Most of our biggest problems ended up being nothing more than a small typo (not sure if this is reassuring or infuriating).
+There were also times when we were getting error after error and still to this day have no idea what the issue was - we just kept using our 
+favorite commands (`git status`, `git pull`, `git add`, `git commit`, `git push`) until the errors magically disappeared! 
+
+In the end, I think our presentation came together pretty well. I'm really glad we got this opportunity to learn about and practice using reveal - it may
+just be my new go-to presentation format!
 
 Check out our nifty presentation in alls its glory <a href="https://tfrahm.github.io/accessibility-presentation/#/">here</a>.
 
